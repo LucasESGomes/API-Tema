@@ -76,7 +76,7 @@ var link6 = `<a href="${dados6.link}">Veja o nosso site</a>`;
 
 
 function apertar1(){
-    document.getElementById('imagem').innerHTML = `<img src="${/img/linkinPark.jpg}">`; 
+    document.getElementById('imagem').innerHTML = dados1.imagem; 
     document.getElementById('nome').innerHTML = dados1.nome;
     document.getElementById('sobrenome').innerHTML = dados1.sobrenome;
     document.getElementById('cidade').innerHTML = dados1.cidade;
