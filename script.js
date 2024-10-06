@@ -5,7 +5,7 @@ var json = `{
     "sobrenome": "Park",
     "cidade": "Agoura Hills",
     "pais": "United States",
-    "imagem": "<img src=\'/img/linkinPark.jpg\' width=\'250px\'>",
+    "imagem": "<img src=\'img/linkinPark.jpg\' width=\'250px\'>",
     "link": "https://fromzero.linkinpark.com/"
 }`; 
 
@@ -15,7 +15,7 @@ var json2 = `{
     "sobrenome": "Park",
     "cidade": "Agoura Hills",
     "pais": "United States",
-    "imagem": "<img src=\'/img/done.jfif\' width=\'250px\'>",
+    "imagem": "<img src=\'img/done.jfif\' width=\'250px\'>",
     "link": "https://fromzero.linkinpark.com/"
 }`;
 
