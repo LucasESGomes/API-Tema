@@ -25,7 +25,7 @@ var json3 = `{
     "sobrenome": "",
     "cidade": "Los Angeles",
     "pais": "United States",
-    "imagem": "<img src='/img/megadeth.webp' width='250px'>",
+    "imagem": "<img src='img/megadeth.webp' width='250px'>",
     "link": "https://www.megadeth.com/"
 }`;
 
@@ -35,7 +35,7 @@ var json4 = `{
     "sobrenome": "",
     "cidade": "Los Angeles",
     "pais": "United States",
-    "imagem": "<img src='/img/lightining.jfif' width='250px'>",
+    "imagem": "<img src='img/lightining.jfif' width='250px'>",
     "link": "https://www.metallica.com/"
 }`;
 
